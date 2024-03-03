@@ -1,0 +1,13 @@
+payload:
+  # 需要直连的网站
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plex.bab
+  - DOMAIN-SUFFIX,javdb523.com
+  - DOMAIN-SUFFIX,bumble.com
+  - DOMAIN-KEYWORD,bumble
+  - IP-CIDR,45.32.79.87/24
+  - IP-CIDR,192.168.8.0/24
+  - IP-CIDR,192.168.8.2/24
+  - PROCESS-NAME,Thunder.app
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-KEYWORD,1password
