@@ -2,6 +2,8 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
+http://192.168.8.2:8188/udp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.8.2:8188/udp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
@@ -38,7 +40,7 @@ http://192.168.8.2:8188/udp/239.93.0.92:5140
 http://192.168.8.2:8188/udp/239.93.0.69:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
 http://192.168.8.2:8188/udp/239.93.1.36:8004
-#EXTINF:-1 group-title="其他",爱上4K(4K机顶盒用户可观看)
+#EXTINF:-1 group-title="其他",爱上4K
 http://192.168.8.2:8188/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://192.168.8.2:8188/udp/239.93.0.104:5140
