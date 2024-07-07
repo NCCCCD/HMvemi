@@ -1,3 +1,4 @@
+payload:
 # 需要代理的网站
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-KEYWORD,lumalabs
@@ -38,11 +39,29 @@ DOMAIN-KEYWORD,capcut
 DOMAIN-SUFFIX,reabble.cn
 DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,suno.ai
-DOMAIN-KEYWORD,ciciai
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,forefront.ai
+DOMAIN-SUFFIX,gptgod.site
+DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,basicappleguy.com
+DOMAIN-SUFFIX,cloudghost.net
+DOMAIN-SUFFIX,javmenu.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,fastupload.io
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,gg5.co
+DOMAIN-SUFFIX,paycalling.com
+DOMAIN-SUFFIX,torlock.com
+DOMAIN-KEYWORD,torlock
+DOMAIN-KEYWORD,debian.org
+DOMAIN-KEYWORD,proxmox.com
+DOMAIN-KEYWORD,basicappleguy
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,pincong.rocks
