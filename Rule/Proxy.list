@@ -1,4 +1,3 @@
-payload:
 # 需要代理的网站
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-KEYWORD,lumalabs
