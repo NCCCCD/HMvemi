@@ -49,8 +49,7 @@ DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,cloudghost.net
 DOMAIN-SUFFIX,javmenu.com
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-KEYWORD,javdb
+#DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,fastupload.io
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,gg5.co
