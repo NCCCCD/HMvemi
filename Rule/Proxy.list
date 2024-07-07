@@ -1,4 +1,15 @@
 # 需要代理的网站
+DOMAIN-KEYWORD,javdb
+DOMAIN-SUFFIX,javmenu.com
+DOMAIN-SUFFIX,msin.jp
+DOMAIN-SUFFIX,msin.info
+DOMAIN-KEYWORD,jdbstatic
+DOMAIN-KEYWORD,jav321
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-KEYWORD,lumalabs
 DOMAIN-SUFFIX,phind.com
@@ -20,10 +31,6 @@ DOMAIN-SUFFIX,vercel.com
 DOMAIN-KEYWORD,vercel
 DOMAIN-SUFFIX,coze.com
 DOMAIN-KEYWORD,coze
-DOMAIN-SUFFIX,msin.jp
-DOMAIN-SUFFIX,msin.info
-DOMAIN-KEYWORD,jdbstatic
-DOMAIN-KEYWORD,jav321
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-KEYWORD,vpdmm
 DOMAIN-SUFFIX,userapi.com
@@ -41,15 +48,8 @@ DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,gptgod.site
-#DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,android.clients.google.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,cloudghost.net
-DOMAIN-SUFFIX,javmenu.com
-#DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,fastupload.io
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,gg5.co
