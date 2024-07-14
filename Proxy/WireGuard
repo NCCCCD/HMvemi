@@ -1,0 +1,1 @@
+iPhone = wireguard, private-key = iGA7Et6z7BlZCxynzxcD4JvIQrpFGAFXHPWC0GW/72w=, dns-server = 192.168.8.2, mtu = 1280, test-url=http://192.168.8.2, peer = (public-key = 36W0+Gma1LxkK1x2QEhNah8Pj4Gx2eEKGehy7hR0tQ8=, allowed-ips = "0.0.0.0/0, ::/0", endpoint = www.hmvemi.top:51820, preshared-key = emc++d6psqJwH8ejQzo6Ub6VP+zmn1MqB5D4zTs33Fk=, keepalive = 25)
