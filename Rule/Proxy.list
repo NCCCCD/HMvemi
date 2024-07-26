@@ -1,0 +1,23 @@
+# NAME: 本地代理规则
+
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,bumble.com
+DOMAIN-SUFFIX,mitsea.com
+DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,ipget.net
+DOMAIN-SUFFIX,xslist.org
+DOMAIN-SUFFIX,tome.app
+DOMAIN-SUFFIX,keeflys.com
+IP-CIDR,51.79.228.122/32,no-resolve
+IP-CIDR,141.76.2.4/32,no-resolve
+DOMAIN-SUFFIX,www.ashleymadison.com // Added for: www.ashleymadison.com:443
+IP-CIDR,108.160.165.48/32,no-resolve
+DOMAIN-SUFFIX,bumbcdn.com

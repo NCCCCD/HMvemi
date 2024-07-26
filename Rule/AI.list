@@ -1,0 +1,7 @@
+# NAME: AI相关网站规则
+
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,lumalabs.ai
+
+DOMAIN-SUFFIX,behance.net
