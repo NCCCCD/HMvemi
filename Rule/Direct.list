@@ -1,6 +1,6 @@
 # NAME: 本地直连规则
 
-DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.bab
 DOMAIN-SUFFIX,1password.com
 DOMAIN-KEYWORD,1password

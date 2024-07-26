@@ -1,5 +1,9 @@
 # NAME: 本地代理规则
 
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,bumble.com
@@ -21,3 +25,4 @@ IP-CIDR,141.76.2.4/32,no-resolve
 DOMAIN-SUFFIX,www.ashleymadison.com // Added for: www.ashleymadison.com:443
 IP-CIDR,108.160.165.48/32,no-resolve
 DOMAIN-SUFFIX,bumbcdn.com
+DOMAIN,images.plex.tv
