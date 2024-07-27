@@ -1,0 +1,7 @@
+# NAME: 韩国代理规则
+
+
+DOMAIN-SUFFIX,arcteryx.co.kr
+DOMAIN-SUFFIX,megadata.co.kr
+DOMAIN,tk.mediacategory.com
+DOMAIN-SUFFIX,naver.com

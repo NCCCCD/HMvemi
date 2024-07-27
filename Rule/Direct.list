@@ -10,3 +10,4 @@ PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
 PROCESS-NAME,/Applications/Speedtest.app/Contents/MacOS/Speedtest
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,test-ipv6.com
