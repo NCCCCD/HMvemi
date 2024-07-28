@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,www.ashleymadison.com // Added for: www.ashleymadison.com:443
 IP-CIDR,108.160.165.48/32,no-resolve
 DOMAIN-SUFFIX,bumbcdn.com
 DOMAIN,images.plex.tv
+
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,plex.tv

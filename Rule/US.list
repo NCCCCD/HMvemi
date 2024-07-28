@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,meridianpresets.com
 DOMAIN-SUFFIX,civitai.com
 IP-CIDR,185.199.111.154/32,no-resolve
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
-DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,www.ashleymadison.com // Added for: www.ashleymadison.com:443
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javcup.com
@@ -40,3 +39,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,groq.com
+
+DOMAIN-SUFFIX,fuclaude.com
+DOMAIN-SUFFIX,killcovid2021.com
+DOMAIN-SUFFIX,paddle.com

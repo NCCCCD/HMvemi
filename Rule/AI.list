@@ -1,7 +1,9 @@
 # NAME: AI相关网站规则
 
 DOMAIN-SUFFIX,claude.ai
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,lumalabs.ai
-
 DOMAIN-SUFFIX,behance.net
