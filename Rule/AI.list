@@ -7,3 +7,9 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-SUFFIX,behance.net
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,msn
+
+DOMAIN-SUFFIX,cdn-luma.com
+DOMAIN-SUFFIX,engineeringlumalabs.com
+DOMAIN-SUFFIX,clarity.ms

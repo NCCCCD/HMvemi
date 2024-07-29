@@ -1,0 +1,6 @@
+# NAME: 印度代理规则
+
+DOMAIN-SUFFIX,paytm.com
+DOMAIN-SUFFIX,paytm.me
+DOMAIN-SUFFIX,phon.pe
+DOMAIN-SUFFIX,phonepe.com
