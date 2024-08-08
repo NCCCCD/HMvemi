@@ -12,8 +12,6 @@ http://192.168.8.2:8188/udp/239.93.1.11:2223
 http://192.168.8.2:8188/udp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
 http://192.168.8.2:8188/udp/239.93.1.12:2224
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
-http://192.168.8.2:8188/udp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
 http://192.168.8.2:8188/udp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
@@ -38,6 +36,8 @@ http://192.168.8.2:8188/udp/239.93.0.103:5140
 http://192.168.8.2:8188/udp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://192.168.8.2:8188/udp/239.93.0.92:5140
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
+http://192.168.8.2:8188/udp/239.93.1.36:8004
 #EXTINF:-1 group-title="其他",爱上4K
 http://192.168.8.2:8188/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
