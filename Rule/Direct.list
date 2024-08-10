@@ -2,8 +2,8 @@
 
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.bab
-DOMAIN-SUFFIX,1password.com
-DOMAIN-KEYWORD,1password
+#DOMAIN-SUFFIX,1password.com
+#DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,faceulv.com
 DOMAIN-SUFFIX,userapi.com
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
