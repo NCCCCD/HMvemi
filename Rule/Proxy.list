@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,salesforce.com
 
 DOMAIN-SUFFIX,paycalling.com
 DOMAIN-SUFFIX,rustdesk.com
+DOMAIN-SUFFIX,cloudflare.com
+IP-CIDR,172.67.164.149/32,no-resolve
