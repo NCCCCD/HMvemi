@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,cloudflare.com
 IP-CIDR,172.67.164.149/32,no-resolve
 IP-CIDR,103.252.114.11/32,no-resolve
+DOMAIN-SUFFIX,airav4.club
+DOMAIN-SUFFIX,netcdn.space
