@@ -1,0 +1,6 @@
+# NAME: 其他国家代理规则
+
+DOMAIN-SUFFIX,paytm.com // 🇮🇳 印度
+DOMAIN-SUFFIX,paytm.me // 🇮🇳 印度
+DOMAIN-SUFFIX,phon.pe // 🇮🇳 印度
+DOMAIN-SUFFIX,phonepe.com // 🇮🇳 印度
