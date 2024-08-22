@@ -82,12 +82,13 @@ DOMAIN-SUFFIX,photorank.me
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,rei.com
 DOMAIN-SUFFIX,framerusercontent.com
-DOMAIN-SUFFIX,alphonso.tv
-DOMAIN,ngfts.lge.com
-DOMAIN-SUFFIX,meethue.com
-DOMAIN-SUFFIX,ueiwsp.com
 DOMAIN-SUFFIX,gitbook.io
 IP-CIDR,128.121.243.228/32,no-resolve
 IP-CIDR,76.223.12.1/32,no-resolve
 IP-CIDR,103.252.114.11/32,no-resolve
 DOMAIN-SUFFIX,hysteria.network
+DOMAIN-SUFFIX,pfsense.org
+DOMAIN-SUFFIX,netgate.com
+DOMAIN-SUFFIX,boostymark.com
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,us.kg
