@@ -2,9 +2,6 @@
 
 DOMAIN-SUFFIX,ui.com
 DOMAIN,store.ui.com.cn
-DOMAIN,image.javbee.org
-DOMAIN-SUFFIX,javbee.org
-DOMAIN-SUFFIX,javbee.me
 DOMAIN-SUFFIX,javdb367.com
 DOMAIN-SUFFIX,btc35000.com
 DOMAIN-SUFFIX,javmenu.com
@@ -96,3 +93,5 @@ DOMAIN-SUFFIX,boostymark.com
 DOMAIN-SUFFIX,shopify.com
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,pogoskill.com
+DOMAIN-SUFFIX,home-assistant.io
+DOMAIN-SUFFIX,torrentkitty.net

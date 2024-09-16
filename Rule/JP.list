@@ -1,6 +1,9 @@
 # NAME: 本地日本代理规则
 
 DOMAIN-SUFFIX,mgstage.com
+DOMAIN,image.javbee.org
+DOMAIN-SUFFIX,javbee.org
+DOMAIN-SUFFIX,javbee.me
 DOMAIN-SUFFIX,msin.jp
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,airav.cc
