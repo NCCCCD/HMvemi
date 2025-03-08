@@ -10,9 +10,6 @@ DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,ipget.net
 DOMAIN-SUFFIX,xslist.org
@@ -25,7 +22,6 @@ IP-CIDR,108.160.165.48/32,no-resolve
 DOMAIN-SUFFIX,bumbcdn.com
 DOMAIN,images.plex.tv
 
-DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,plex.tv
 
 DOMAIN-SUFFIX,javgg.net
@@ -52,4 +48,3 @@ DOMAIN-SUFFIX,alphonso.tv
 DOMAIN-SUFFIX,lgthinq.com
 DOMAIN-SUFFIX,lgthinq.com
 
-DOMAIN-SUFFIX,javbus22.com
