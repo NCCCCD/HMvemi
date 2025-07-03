@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,avsox.click
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,freejavbt.com
 DOMAIN-SUFFIX,mdpjzip.xyz
-DOMAIN-SUFFIX,macosicons.com
 DOMAIN,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,rectangleapp.com
 DOMAIN-SUFFIX,91porn.com
@@ -119,7 +118,7 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,fivethirtyeight.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,bestbuy.com
-DOMAIN-SUFFIX,appstorrent.ru
+#DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,analogicalab.store
 DOMAIN-SUFFIX,premiumbeat.com
@@ -129,6 +128,7 @@ DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,gying.org
 
 DOMAIN-SUFFIX,roku.com
+DOMAIN-KEYWORD,podman-desktop
 DOMAIN-SUFFIX,4k2.com
 DOMAIN-SUFFIX,77vr.com
 DOMAIN-SUFFIX,jav525.app
@@ -140,3 +140,57 @@ DOMAIN-SUFFIX,redteago.com
 DOMAIN-SUFFIX,servingmissjessica.com
 DOMAIN-SUFFIX,skidrowreloaded.com
 DOMAIN-SUFFIX,mamp.info
+DOMAIN-SUFFIX,aiarty.com
+DOMAIN-SUFFIX,snapsbyfox.com
+DOMAIN-SUFFIX,salomon.com
+DOMAIN-SUFFIX,cosplay18.pics
+DOMAIN-SUFFIX,javhd.today
+DOMAIN-SUFFIX,javfilms.com
+DOMAIN-SUFFIX,xsijishe.com
+DOMAIN-SUFFIX,xasiat.com
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,xchina.biz
+DOMAIN-SUFFIX,raphael.app
+DOMAIN-SUFFIX,podman-desktop.io // Added for: podman-desktop.io:443
+DOMAIN-SUFFIX,lightning.ai
+DOMAIN-SUFFIX,reecho.ai
+DOMAIN-SUFFIX,fish.audio
+DOMAIN-SUFFIX,usm.com
+DOMAIN-SUFFIX,24av.net
+DOMAIN-SUFFIX,wetransfer.com
+DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,cnxx.me
+DOMAIN-SUFFIX,claw.cloud
+IP-CIDR,216.146.201.10/32,no-resolve
+DOMAIN-SUFFIX,napkin.ai
+DOMAIN-SUFFIX,cloudghost.net
+DOMAIN-SUFFIX,big.sb
+DOMAIN-SUFFIX,oakleysi.com
+DOMAIN-SUFFIX,snapcraftcontent.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,ragflow.io
+DOMAIN-SUFFIX,monica.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,readhacker.news
+DOMAIN-SUFFIX,rotato.app
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,freepreset.net
+DOMAIN-SUFFIX,rebeccalily.com
+DOMAIN-SUFFIX,tombolles.net
+DOMAIN-SUFFIX,signatureedits.com
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,mermaid.live
+DOMAIN-SUFFIX,mermaidchart.com
+DOMAIN-SUFFIX,wideanglesoftware.com
+DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
+DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
+DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
+DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
+DOMAIN-SUFFIX,klingai.com
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,cordlessdog.com
+DOMAIN-SUFFIX,roonlabs.net
+DOMAIN-SUFFIX,pixeldrain.com
