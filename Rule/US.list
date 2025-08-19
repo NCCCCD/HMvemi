@@ -5,7 +5,6 @@ DOMAIN,store.ui.com.cn
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,javdb367.com
 DOMAIN-SUFFIX,btc35000.com
 DOMAIN-SUFFIX,javmenu.com
 DOMAIN-SUFFIX,godownloads.org
@@ -33,7 +32,6 @@ DOMAIN-SUFFIX,civitai.com
 IP-CIDR,185.199.111.154/32,no-resolve
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,www.ashleymadison.com // Added for: www.ashleymadison.com:443
-DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javcup.com
 DOMAIN-SUFFIX,erodougazo.com
 DOMAIN-SUFFIX,japanhub.net
@@ -60,7 +58,6 @@ DOMAIN-SUFFIX,freejavbt.com
 DOMAIN-SUFFIX,mdpjzip.xyz
 DOMAIN,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,rectangleapp.com
-DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,ysjdm.net
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,macrodroidlink.com
@@ -198,3 +195,10 @@ DOMAIN-SUFFIX,hiby.app
 DOMAIN-SUFFIX,iqqtvvip.vip
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,macenhance.com
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,91selfie.com
+DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,freenom.world
+DOMAIN-SUFFIX,digitalplat.org
+DOMAIN-SUFFIX,itsalin.com
+DOMAIN-SUFFIX,codeweavers.com
