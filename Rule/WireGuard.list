@@ -6,3 +6,4 @@ IP-CIDR,10.10.3.0/24,no-resolve
 IP-CIDR,10.10.4.0/24,no-resolve
 IP-CIDR,10.10.5.0/24,no-resolve
 IP-CIDR,10.0.10.0/24,no-resolve
+IP-CIDR,192.168.1.0/24,no-resolve

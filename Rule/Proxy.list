@@ -24,7 +24,6 @@ DOMAIN,images.plex.tv
 
 DOMAIN-SUFFIX,plex.tv
 
-DOMAIN-SUFFIX,javgg.net
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,salesforce.com
 
@@ -64,3 +63,5 @@ DOMAIN-SUFFIX,verygoodpresets.com
 DOMAIN-SUFFIX,remit.ee
 DOMAIN-SUFFIX,fdcservers.com
 DOMAIN-SUFFIX,geekxw.top
+DOMAIN-SUFFIX,faceulv.com
+DOMAIN-SUFFIX,inets.io
