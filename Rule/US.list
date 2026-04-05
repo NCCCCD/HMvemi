@@ -38,7 +38,6 @@ DOMAIN-SUFFIX,japanhub.net
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
-DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,groq.com
 
@@ -182,10 +181,6 @@ DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,mermaidchart.com
 DOMAIN-SUFFIX,wideanglesoftware.com
-DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
-DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
-DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
-DOMAIN-SUFFIX,wideanglesoftware.com // Added for: www.wideanglesoftware.com:443
 DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,cordlessdog.com
