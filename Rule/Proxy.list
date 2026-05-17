@@ -1,5 +1,11 @@
 # NAME: 本地代理规则
 
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
+
 DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,metadata-static.plex.tv
@@ -72,3 +78,4 @@ DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,hssl8088.icu
 DOMAIN-SUFFIX,tuxera.com
 DOMAIN-SUFFIX,motorauthority.com
+DOMAIN-SUFFIX,project-audio.com
