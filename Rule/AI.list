@@ -1,5 +1,10 @@
 # NAME: AI相关网站规则
 
+# Local AI apps
+PROCESS-NAME,/Applications/ChatGPT.app/
+PROCESS-NAME,/Applications/ChatGPT Atlas.app/
+PROCESS-NAME,/Applications/Codex.app/
+
 DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-SUFFIX,behance.net
@@ -39,7 +44,7 @@ DOMAIN-SUFFIX,amp-api.apps.apple.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,*.smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
