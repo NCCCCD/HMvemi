@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,plex.bab
 DOMAIN-SUFFIX,faceulv.com
 DOMAIN-SUFFIX,speedtest.im
 #DOMAIN-SUFFIX,userapi.com
-PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
-PROCESS-NAME,/Applications/Speedtest.app/Contents/MacOS/Speedtest
+PROCESS-NAME,/Applications/WeChat.app/
+PROCESS-NAME,/Applications/Speedtest.app/
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,tesla.cn
