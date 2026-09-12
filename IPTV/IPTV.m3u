@@ -37,26 +37,26 @@ http://10.10.2.6:5140/udp/239.94.0.39:5140
 http://10.10.2.6:5140/udp/239.94.0.23:5140
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="其他" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221228817/764702796.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",CGTN英语
 http://10.10.2.6:5140/udp/239.94.0.40:5140
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/四川卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221228827/770652630.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",四川卫视4K
-http://10.10.2.6:5140/udp/239.94.0.115:5140
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/四川卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221228857/785001316.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",四川卫视4K
+http://10.10.2.6:5140/udp/239.94.0.121:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/湖南卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.58:554/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",湖南卫视4K
-http://10.10.2.6:5140/udp/239.94.0.116:5140
+http://10.10.2.6:5140/udp/239.94.0.122:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/江苏卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.58:554/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",江苏卫视4K
-http://10.10.2.6:5140/udp/239.94.0.117:5140
+http://10.10.2.6:5140/udp/239.94.0.123:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/浙江卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.58:554/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",浙江卫视4K
-http://10.10.2.6:5140/udp/239.94.0.118:5140
+http://10.10.2.6:5140/udp/239.94.0.124:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/东方卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.58:554/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",东方卫视4K
-http://10.10.2.6:5140/udp/239.94.0.119:5140
+http://10.10.2.6:5140/udp/239.94.0.125:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/北京卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221228638/761592560.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",北京卫视4K
 http://10.10.2.6:5140/udp/239.94.0.111:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/深圳卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.58:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",深圳卫视4K
-http://10.10.2.6:5140/udp/239.94.0.113:5140
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/广东卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.59:554/PLTV/88888896/224/3221227971/10000100000000060000000003742736_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",广东卫视4K
-http://10.10.2.6:5140/udp/239.94.0.114:5140
+http://10.10.2.6:5140/udp/239.94.0.126:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/广东卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221228835/766755609.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",广东卫视4K
+http://10.10.2.6:5140/udp/239.94.0.127:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://iptv.zsdc.eu.org/logo/天津卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221227956/10000100000000060000000003734376_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",天津卫视
 http://10.10.2.6:5140/udp/239.94.0.68:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视4K" tvg-logo="https://iptv.zsdc.eu.org/logo/山东卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://182.139.234.59:554/PLTV/88888896/224/3221227980/10000100000000060000000003734383_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&icpid=88888896&from=96&hms_devid=15804&online=1782135829" catchup-days="5",山东卫视4K
-http://10.10.2.6:5140/udp/239.94.0.120:5140
+http://10.10.2.6:5140/udp/239.94.0.128:5140
 #EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://iptv.zsdc.eu.org/logo/SCTV2.png" group-title="四川" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",SCTV2
 http://10.10.2.6:5140/udp/239.94.0.70:5140
 #EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://iptv.zsdc.eu.org/logo/SCTV3.png" group-title="四川" catchup="default" catchup-source="rtsp://182.139.234.40/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="5",SCTV3
